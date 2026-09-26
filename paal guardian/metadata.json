@@ -1,0 +1,6 @@
+{
+  "name": "PAAL GUARDIAN",
+  "description": "Smart Passive Milk Chilling Can monitor for farmers and milk collection centers with real BLE, thermal risk monitoring, and Supabase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
